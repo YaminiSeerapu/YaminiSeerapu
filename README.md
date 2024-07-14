@@ -1,4 +1,4 @@
-Hi there 👋 I'm Yamini Seerapu, a Computer science student pursuing Undergraduation with a strong passion for AI & ML as well as cloud. Beyond the tech realm, I'm a 🎵 Music enthusiast,🍳 a culinary adventurer who loves to whip up new recipes,stay active with Badminton 🏸 and find my inspiration in music. As a curious and open-minded individual, I thrive on continuous learning and cherish diverse experiences.
+Hi there 👋 I'm Yamini Seerapu, a Computer science student pursuing Undergraduation with a strong passion for AI & ML as well as cloud.I love exploring the world of artificial intelligence. Beyond the tech realm, I'm a 🎵 Music enthusiast,🍳 a culinary adventurer who loves to whip up new recipes,stay active with Badminton 🏸 and find my inspiration in music. As a curious and open-minded individual, I thrive on continuous learning and cherish diverse experiences.
 
 🔭 I’m currently working on DSA and Machine Learning.
 
