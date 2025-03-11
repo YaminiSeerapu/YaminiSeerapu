@@ -2,8 +2,6 @@ Hi there 👋 I'm Yamini Seerapu, a Computer science student pursuing Undergradu
 
 🔭 I’m currently working on DSA and Machine Learning.
 
-🌱 I’m currently learning ML and deep Learning.
-
 💼 Connect with me on LinkedIn to explore professional opportunities: linkedin.com/in/yamini-seerapu5b84b9222
 
 👯 I’m looking to collaborate on various projects.
